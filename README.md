@@ -1,7 +1,7 @@
 <div align="center">
   <h1>Project Demo</h1>
     <img width="25%" height="701" alt="image" src="https://github.com/user-attachments/assets/f365f456-8af7-40ae-bd3f-f12c2a25da00" /><br>
-    <img width="50dp" height="298" alt="image" src="https://github.com/user-attachments/assets/d1ba0389-6d4a-4c09-8b13-40a21e922860" /><br><br>
+    <img width="50%" height="298" alt="image" src="https://github.com/user-attachments/assets/d1ba0389-6d4a-4c09-8b13-40a21e922860" /><br><br>
 
   ## 📱 Permissions Handling with EasyPermissions
   
