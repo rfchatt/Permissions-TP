@@ -9,6 +9,8 @@
   <img width="50%" height="298" alt="image" src="https://github.com/user-attachments/assets/d1ba0389-6d4a-4c09-8b13-40a21e922860" /><br><br>
 
 </div>
+
+<div>
   
   ### Basic Syntax Structure
   
@@ -47,3 +49,5 @@
   - The rationale message to explain why that specific permission is needed
   
   This consistent pattern makes it easy to implement multiple permissions throughout your application while maintaining clean, readable code.
+
+</div>
