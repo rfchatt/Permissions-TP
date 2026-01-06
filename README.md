@@ -6,7 +6,7 @@
   
   This implementation demonstrates the basic syntax and structure for handling runtime permissions in Android using the EasyPermissions library. The example covers camera permissions, which can be easily adapted for Location, Microphone, Bluetooth, and other permissions.
 
-  <img width="50%" height="298" alt="image" src="https://github.com/user-attachments/assets/d1ba0389-6d4a-4c09-8b13-40a21e922860" /><br><br>
+  <img width="100%" height="298" alt="image" src="https://github.com/user-attachments/assets/d1ba0389-6d4a-4c09-8b13-40a21e922860" /><br><br>
 
 </div>
 
